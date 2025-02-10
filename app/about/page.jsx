@@ -8,16 +8,17 @@ export default function Page() {
       <div className="flex flex-col items-center w-full p-20">
         <span className="font-[Unison] text-7xl text-[#1B1A3A]">About</span>
         <p className="text-center p-10 pt-14">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Hi, I'm Aashritha! I'm a product design student from Hyderabad, now
+          based in Pune. I'm all about merging creativity with functionality to
+          create something amazing. When I'm not designing, you can find me
+          playing my violin, arguing about F1 or football with my brothers,
+          exploring new tunes, cooking something to experiment on my roommates
+          or binge-watching old rom-coms (I'm just a girl).
           <br />
           <br />
-          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est
-          laborum.
+          I've got a knack for leading and managing teams, and I'm super
+          passionate about research and analysis - it helps me create designs
+          that truly make an impact!
         </p>
       </div>
     </main>

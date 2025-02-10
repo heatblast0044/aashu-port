@@ -6,8 +6,7 @@
 @layer base {
   @font-face {
     font-family: Unison;
-    src: url("./Type\ Juice\ -\ Unison\ Pro\ Bold\ Round.otf")
-      format("opentype");
+    src: url("/round.otf") format("opentype");
   }
 }
 
